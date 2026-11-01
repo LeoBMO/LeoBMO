@@ -1,3 +1,5 @@
+<img width="5120" height="2097" alt="Image" src="https://github.com/user-attachments/assets/23e72a0a-50fc-49da-a0e7-efd1ca309356" />
+
 # Hey there! I'm Leo 👋
 
 I'm a Software and Computer Systems Engineering student based in Mexico 🇲🇽
