@@ -24,4 +24,4 @@ I'm building my portfolio, improving my skills, and looking for new challenges t
 - I'm always looking for something new to code
 - I'm BMO's #1 fan 🤖
 
-> Every project starts as a small idea and ends up teaching me something new.
+> Si puedes imaginarlo, puedes programarlo
