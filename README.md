@@ -2,7 +2,7 @@
 
 # Hey there! I'm Leo 👋
 
-I'm a Software and Computer Systems Engineering student based in Mexico 🇲🇽
+I'm a Software and Computer Systems Engineering student based in México 🇲🇽
 
 I enjoy building applications, exploring game development, and discovering the world of data analysis. This profile is my little laboratory, where I share personal projects, practice projects, and everything I learn along the way.
 
